@@ -1,5 +1,5 @@
 # Hello there👋👨‍💻
-<img src="https://rishavanand.github.io/static/images/greetings.gif" width="90%"/>
+![Kunal Ahuja](https://user-images.githubusercontent.com/52367650/151411631-ee5b0cff-d28f-4511-a9cc-83161b30ef04.gif)
 
 ![Profile Visits](https://komarev.com/ghpvc/?username=kunalahuja06&color=ff69b4&style=flat-square)
 ##

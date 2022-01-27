@@ -1,4 +1,6 @@
-### Hello there👋👨‍💻
+# Hello there👋👨‍💻
+<img src="https://rishavanand.github.io/static/images/greetings.gif" width="90%"/>
+
 ![Profile Visits](https://komarev.com/ghpvc/?username=kunalahuja06&color=ff69b4&style=flat-square)
 ##
 Here's what you should know about me:-

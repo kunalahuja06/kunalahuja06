@@ -4,12 +4,10 @@
 ![Profile Visits](https://komarev.com/ghpvc/?username=kunalahuja06&color=ff69b4&style=flat-square)
 ##
 Here's what you should know about me:-
-
+- 💻 Working as Full Stack Intern @ Technovert
 - 🔭 I’m currently pursuing Bachelors in Computer Science & Enginering.
 - 🌱 I’m currently learning Full Stack Web Development & DevOps.
 - 👯 I’m looking to collaborate on Open Source Projects.
-- 🤔 I’m looking for help with Internships.
-- 💬 Ask me about overthinking🙄
 - ⚡ Fun fact: I love Cricket and Pizza😍
 
 ## 🛠Technical skills:-

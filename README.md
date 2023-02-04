@@ -30,12 +30,13 @@ Here's what you should know about me:-
 
 ![node](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)  
-![Dotnet](https://img.shields.io/badge/-.NET%206.0-blueviolet)
+![.NET 6.0](https://img.shields.io/badge/-.NET)
 
 ### Database
 
 ![mongodb](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![mysql](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![MySql](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![MsSql](https://img.shields.io/badge/MsSQL-00000F?style=for-the-badge&logo=mssql&logoColor=white)
 
 ## 🤝Find me on:-
 

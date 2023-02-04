@@ -36,7 +36,7 @@ Here's what you should know about me:-
 
 ![mongodb](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySql](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-![MsSql](https://img.shields.io/badge/style-for--the--badge-green?logo=microsoft-sql-server&style=for-the-badge)
+![MsSql](https://img.shields.io/badge/MSSQL?logo=microsoft-sql-server&style=for-the-badge)
 
 ## 🤝Find me on:-
 

@@ -1,10 +1,13 @@
 # Hello there👋👨‍💻
-![Kunal Ahuja](https://user-images.githubusercontent.com/52367650/186661558-575bc515-bca3-4ff3-a6d6-ebaad647c8b2.gif)
+![Kunal Ahuja](https://github.com/kunalahuja06/kunalahuja06/assets/52367650/04661e3a-c1fa-472c-9d4b-af7cd9e4ac93)
+
+
+
 
 ![Profile Visits](https://komarev.com/ghpvc/?username=kunalahuja06&color=ff69b4&style=flat-square)
 ##
 Here's what you should know about me:-
-- 💻 Working as Junior Software Developer @ Technovert.
+- 💻 Working as Junior Software Developer @ Tezo.
 - 🌱 I’m currently learning DevOps.
 - 👯 I’m looking to collaborate on Open Source Projects.
 - ⚡ Fun fact: I love Cricket and Pizza😍
